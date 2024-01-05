@@ -4,6 +4,8 @@ We are openly publishing these files to make it possible for anyone developing
 Tofino-specific P4 data plane programs (both P4<sub>14</sub> and P4<sub>16</sub> versions) and related control plane 
 applications to openly publish their data plane and control plane code. 
 
+Papers and Code using Tofino (http://intel.com/icrp-papers).
+
 License
 =======
 The files are licensed under Creative Commons Attribution-NoDerivs (CC BY-ND
